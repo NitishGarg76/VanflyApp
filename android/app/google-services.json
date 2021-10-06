@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128952303469",
+    "project_id": "vanfly-2b8a1",
+    "storage_bucket": "vanfly-2b8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128952303469:android:37cb4008a9a3aea4a76464",
+        "android_client_info": {
+          "package_name": "co.vanfly.vanfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128952303469-ucafjmc6j25a1ktrrs3e7pg45hp0st0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmn5DZnCNHvl1UI0KDr5IMgFVnTVEHZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128952303469-ucafjmc6j25a1ktrrs3e7pg45hp0st0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
